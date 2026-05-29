@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterdtringify",
+        "uuid": 20354092,
+        "checksum": "fokx4u"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
